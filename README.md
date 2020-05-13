@@ -23,10 +23,13 @@ for each status code
 
 Let's try to have each entry in the `"messages"` list be of the format
 ```json
-"messages": [
+{
     ...,
-    "FIRST_LINE_OF_HAIKU // SECOND_LINE_OF_HAIKU // LAST LINE OF HAIKU"
-]
+    "messages": [
+        ...,
+        "FIRST_LINE_OF_HAIKU // SECOND_LINE_OF_HAIKU // LAST LINE OF HAIKU"
+    ]
+}
 ```
 
 This will make it stupid simple for people to parse in any language that has sane string splitting.
