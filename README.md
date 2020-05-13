@@ -22,7 +22,7 @@ for each status code
 ## whiny standards
 
 Let's try to have each entry in the `"messages"` list be of the format
-```
+```json
 "messages": [
     ...,
     "FIRST_LINE_OF_HAIKU // SECOND_LINE_OF_HAIKU // LAST LINE OF HAIKU"
