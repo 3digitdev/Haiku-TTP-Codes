@@ -18,6 +18,19 @@ I couldn't resist.
 Cool beans -- Submit a PR.  The skeleton of the JSON is setup for anyone to add another haiku
 for each status code
 
+### what do i do
+
+See the top 9 status codes for examples:
+1. [200 OK](./codes/official/2XX/200.json)
+2. [201 Created](./codes/official/2XX/201.json)
+3. [204 No Content](./codes/official/2XX/204.json)
+4. [400 Bad Request](./codes/official/4XX/400.json)
+5. [401 Unauthorized](./codes/official/4XX/401.json)
+6. [403 Forbidden](./codes/official/4XX/403.json)
+7. [404 Not Found](./codes/official/4XX/404.json)
+8. [409 Conflict](./codes/official/4XX/409.json)
+9. [500 Internal Server Error](./codes/official/5XX/500.json)
+
 
 ## whiny standards
 
