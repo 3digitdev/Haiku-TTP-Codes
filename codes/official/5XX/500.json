@@ -3,6 +3,7 @@
     "name": "Internal Server Error",
     "messages": [
         "The server screwed up // Mock your backend engineer // He should try-catch more",
-        "Oh god what happened // Why did the devs not catch this // Exceptions aren't hard"
+        "Oh god what happened // Why did the devs not catch this // Exceptions aren't hard",
+        "Something has gone wrong // It seems to be on our end // Thanks for your patience"
     ]
 }
