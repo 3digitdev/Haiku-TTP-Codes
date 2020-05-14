@@ -36,7 +36,7 @@ See the top 9 status codes for examples:
 
 Let's try to have each entry in the `"messages"` list be of the format
 ```
-"FIRST_LINE_OF_HAIKU // SECOND_LINE_OF_HAIKU // LAST LINE OF HAIKU"
+"FIRST_LINE_OF_HAIKU // SECOND_LINE_OF_THE_HAIKU // LAST_LINE_OF_HAIKU"
 ```
 
 This will make it stupid simple for people to parse in any language that has sane string splitting.
