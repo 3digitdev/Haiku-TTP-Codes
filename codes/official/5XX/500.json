@@ -1,5 +1,8 @@
 {
     "code": 500,
     "name": "Internal Server Error",
-    "messages": []
+    "messages": [
+        "The server screwed up // Mock your backend engineer // He should try-catch more",
+        "Oh god what happened // Why did the devs not catch this // Exceptions aren't hard"
+    ]
 }

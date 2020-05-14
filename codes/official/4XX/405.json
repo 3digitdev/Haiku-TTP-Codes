@@ -1,5 +1,7 @@
 {
     "code": 405,
     "name": "Method Not Allowed",
-    "messages": []
+    "messages": [
+        "GET PUT POST DELETE // PATCH and OPTION sometimes // Try a diff'rent one"
+    ]
 }

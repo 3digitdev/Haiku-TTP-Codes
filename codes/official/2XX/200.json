@@ -1,5 +1,8 @@
 {
     "code": 200,
     "name": "OK",
-    "messages": []
+    "messages": [
+        "Everything is fine // Why are you still reading this // Keep running your code",
+        "Whatever you did // The server seemed okay with // Hope it's not lying"
+    ]
 }
