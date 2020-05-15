@@ -31,6 +31,15 @@ See the top 9 status codes for examples:
 8. [409 Conflict](./codes/official/4XX/409.json)
 9. [500 Internal Server Error](./codes/official/5XX/500.json)
 
+### what's missing
+
+Use the `tools/entries.py` file to Find data about what needs work.
+
+*Requires [rich](https://github.com/willmcgugan/rich) to run* -- (`pip install rich`)
+
+`./entries.py` lists all codes and their haiku count
+
+`./entries.py empty` lists only codes that have no haikus yet
 
 ## whiny standards
 
@@ -48,6 +57,10 @@ Guess whose PR ain't gettin' merged then?
 ### i don't like the structure
 
 `(•_•)   ( •_•)>⌐■-■   (⌐■_■)`
+
+### <word> doesn't have <num> syllables
+
+[Yes](https://www.howmanysyllables.com/) [It](http://www.syllablecount.com/) [Does](https://www.poetrysoup.com/)
 
 ## i need this in my project
 
