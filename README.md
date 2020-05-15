@@ -58,7 +58,7 @@ Guess whose PR ain't gettin' merged then?
 
 `(•_•)   ( •_•)>⌐■-■   (⌐■_■)`
 
-### <word> doesn't have <num> syllables
+### `WORD` doesn't have `NUM` syllables
 
 [Yes](https://www.howmanysyllables.com/) [It](http://www.syllablecount.com/) [Does](https://www.poetrysoup.com/)
 
