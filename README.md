@@ -33,7 +33,7 @@ See the top 9 status codes for examples:
 
 ### what's missing
 
-Use the `tools/entries.py` file to Find data about what needs work.
+Use the `tools/entries.py` file to find info about what needs work.
 
 **Requires [rich](https://github.com/willmcgugan/rich) to run** -- (`pip install rich`)
 
