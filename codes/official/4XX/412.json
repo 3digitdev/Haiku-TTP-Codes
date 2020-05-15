@@ -1,5 +1,7 @@
 {
     "code": 412,
     "name": "Precondition Failed",
-    "messages": []
+    "messages": [
+        "This was so simple // You had one job to do // But you dropped the ball"
+    ]
 }

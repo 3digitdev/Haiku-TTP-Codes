@@ -7,6 +7,7 @@ import sys
 import os
 import json
 from typing import Optional, Dict, Any, List
+from itertools import zip_longest
 
 from rich.console import Console
 from rich.table import Table
@@ -61,20 +62,20 @@ def get_all_codes() -> None:
 def get_empty_codes() -> None:
     """Returns all Codes that have no haikus"""
     code_map = _get_code_map()
-    official = [
+    official = sorted([
         f"{code['code']} {code['name']}"
         for code in code_map['official']
         if not code['messages']
-    ]
-    unofficial = [
+    ])
+    unofficial = sorted([
         f"{code['code']} {code['name']}"
         for code in code_map['unofficial']
         if not code['messages']
-    ]
+    ])
     table = Table(title='CODES WITHOUT HAIKUS', title_style='bold white')
     table.add_column('Official', header_style='bold green', style='green')
     table.add_column('Unofficial', header_style='bold yellow', style='yellow')
-    for pair in zip(official, unofficial):
+    for pair in zip_longest(official, unofficial):
         table.add_row(pair[0], pair[1])
     CONSOLE.print(table)
 

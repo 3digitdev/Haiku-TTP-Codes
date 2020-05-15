@@ -1,5 +1,10 @@
 {
     "code": 408,
     "name": "Request Timeout",
-    "messages": []
+    "messages": [
+        "What's taking so long // Why didn't you send something // <Insert Slowpoke meme>",
+        "<Client is typing> // I asked a simple question... // <Client is typing>",
+        "I don't wanna wait // For our lives to be over // ...So I didn't wait",
+        "I got hyped for this // Was on the edge of my seat // You left me hangin'"
+    ]
 }

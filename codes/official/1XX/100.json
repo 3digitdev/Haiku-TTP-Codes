@@ -1,5 +1,7 @@
 {
     "code": 100,
     "name": "Continue",
-    "messages": []
+    "messages": [
+        "I got the headers // Why not send the body too // Could be fun, you know"
+    ]
 }

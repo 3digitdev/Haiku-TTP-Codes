@@ -1,5 +1,7 @@
 {
     "code": 407,
     "name": "Proxy Authentication Required",
-    "messages": []
+    "messages": [
+        "You thought you were good // But your proxy is so strict // Go ask permission"
+    ]
 }
