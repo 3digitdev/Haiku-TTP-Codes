@@ -35,7 +35,7 @@ See the top 9 status codes for examples:
 
 Use the `tools/entries.py` file to Find data about what needs work.
 
-*Requires [rich](https://github.com/willmcgugan/rich) to run* -- (`pip install rich`)
+**Requires [rich](https://github.com/willmcgugan/rich) to run** -- (`pip install rich`)
 
 `./entries.py` lists all codes and their haiku count
 
